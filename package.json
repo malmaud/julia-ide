@@ -1,5 +1,5 @@
 {
-  "name": "Julia IDE",
+  "name": "julia-ide",
   "main": "./lib/julia-ide",
   "version": "0.0.0",
   "description": "IDE for Julia (Work in progress)",
@@ -11,7 +11,7 @@
   "repository": "https://github.com/malmaud/julia-ide",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.0.0"
   },
   "dependencies": {
   }
