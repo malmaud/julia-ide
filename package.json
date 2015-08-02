@@ -1,7 +1,7 @@
 {
   "name": "julia-ide",
   "main": "./lib/julia-ide",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "IDE for Julia (Work in progress)",
   "keywords": [],
   "activationCommands": {
